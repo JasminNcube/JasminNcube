@@ -1,6 +1,6 @@
 👋 Hi, I’m @JasminNcube
 
-👀 I’m interested in DevOPs engineering :)
+👀 I’m interested in DevOPs engineering as I embark on a journey to becoming a Cloud Solutions Architect :)
 
 🌱 I’m currently learning all things Azure and DevOps
 
